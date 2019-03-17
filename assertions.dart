@@ -17,3 +17,7 @@ int divide(int a, int b) {
 //If the expression’s value is true, the assertion succeeds and execution continues. 
 //If it’s false, the assertion fails and an exception (an AssertionError) is thrown.
 
+//Caution:
+//from command line assert are enable by dart tool only with additional flag:
+// dart --enable-asserts assertions.dart
+
