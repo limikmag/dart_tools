@@ -20,4 +20,5 @@ int divide(int a, int b) {
 //Caution:
 //from command line assert are enable by dart tool only with additional flag:
 // dart --enable-asserts assertions.dart
+// In Flutter it is enable only in debug mode
 
