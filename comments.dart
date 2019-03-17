@@ -1,5 +1,5 @@
 void main() {
-	print(add(2,1));
+  print(add(2,1));
   print(divide(3,2));
   print(substraction(1,4));
   print(multiplication(2,4));
@@ -50,7 +50,6 @@ int divide(int first, int second) {
 /// var example = CodeBlockExample();
 /// print(example.isItGreat); // "Yes."
 /// ```
-
 int multiplication(int first, int second) {
   return first*second;
 }
